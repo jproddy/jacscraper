@@ -2,7 +2,7 @@ JACSpider has been designed using Scrapy to crawl through American Chemical Scoc
 
 	DOI, title, authors, journal, year, volume, issue, page start, page end, article type, publication date, abstract
 
-The datasets and sample cleaning and analysis are available on [Kaggle](https://www.kaggle.com/jroddy33/american-chemical-society-journals).
+The datasets and sample cleaning and analysis are available as data_analysis_iron_sulfur_clusters.ipynbh or on [Kaggle](https://www.kaggle.com/jroddy33/american-chemical-society-journals).
 
 This information will be used to trace various trends in chemical research. Other uses may include generating author connectivity graphs. Unfortunately there are a handful of limitations; articles published prior to 1996 (presumably when ACS embraced digitization?) are not accompanied by their abstracts. Many of the older papers have miscategorized article types and are plagued by typos. Finally, some of the entries are not true research articles but instead mastheads, book reviews, software reviews etc. However, the vast majority of these can be removed via fairly trivial data cleaning techniques.
 
