@@ -1,0 +1,44 @@
+{
+	"Biochemistry": {
+		"journal_id": "bichaw",
+		"latest_issue": 0,
+		"latest_volume": 0,
+		"latest_year": 0,
+		"start_year": 1962
+	},
+	"Chemical Reviews": {
+		"journal_id": "chreay",
+		"latest_issue": 0,
+		"latest_volume": 0,
+		"latest_year": 0,
+		"start_year": 1924
+	},
+	"Inorganic Chemistry": {
+		"journal_id": "inocaj",
+		"latest_issue": 0,
+		"latest_volume": 0,
+		"latest_year": 0,
+		"start_year": 1962
+	},
+	"Journal of the American Chemical Society": {
+		"journal_id": "jacsat",
+		"latest_issue": 0,
+		"latest_volume": 0,
+		"latest_year": 0,
+		"start_year": 1879
+	},
+	"Organometallics": {
+		"journal_id": "orgnd7",
+		"latest_issue": 0,
+		"latest_volume": 0,
+		"latest_year": 0,
+		"start_year": 1982
+	},
+	"The Journal of Organic Chemistry": {
+		"journal_id": "joceah",
+		"latest_issue": 0,
+		"latest_volume": 0,
+		"latest_year": 0,
+		"start_year": 1936
+	}
+}
