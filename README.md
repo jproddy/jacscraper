@@ -8,7 +8,7 @@ The scraper can be run on the command line using:
 
 	python scrape.py
 
-This will create a default `journal_data.json` file that will allow for scraping the six journals listed below. The list can then be modified by rerunning the program with `add-journal` or `remove-journal` arguments and following the prompts. Running the script will create a `jsons` diretory in which the generated files will be saved.
+This will create a default `journal_data.json` file that will allow for scraping the six journals listed below. The list can then be modified by rerunning the program with `add-journal` or `remove-journal` arguments and following the prompts. Running the script once more will create a `jsons` directory in which the generated files will be saved and begin the scraping process.
 
 This information will be used to trace various trends in chemical research. Other uses may include generating author connectivity graphs. Unfortunately there are a handful of limitations; articles published prior to 1996 (presumably when ACS embraced digitization?) are not accompanied by their abstracts. Many of the older papers have miscategorized article types and are plagued by typos. Finally, some of the entries are not true research articles but instead mastheads, book reviews, software reviews etc. However, the vast majority of these can be removed via fairly trivial data cleaning techniques.
 
